@@ -1,0 +1,1 @@
+# indexer-the-graph-abis-DemoNFT.json
